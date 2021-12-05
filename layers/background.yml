@@ -4,7 +4,6 @@ paint:
   background-color: 
     - step
     - - zoom
-    - rgb(190, 210, 255)
+    - rgb(255, 255, 255)
     - 13
-    - rgb(161, 229, 252)
-    
+    - rgb(190, 210, 255)
