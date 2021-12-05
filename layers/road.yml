@@ -11,4 +11,4 @@ filter:
   - false
 paint: 
   line-color: rgb(233, 216, 175)
-  line-width: 0.7
+  line-width: 10
